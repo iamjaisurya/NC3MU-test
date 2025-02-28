@@ -1,0 +1,1 @@
+<command>curl -o public/favicon.ico https://raw.githubusercontent.com/ncloud3/brand-assets/main/favicon.ico</command>
